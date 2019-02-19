@@ -12,4 +12,4 @@ eureka:
     #instanceId: ${spring.application.name}:${server.port}
   client:
     serviceUrl:
-      defaultZone: http://10.3.99.29:1111/eureka/ 
+      defaultZone: http://loaclhost:8888/eureka/ 
